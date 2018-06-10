@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name_generic">Clase 2, Leandro Leonardo</string>
+    <string name="app_name_login">Iniciar Sesión</string>
+    <string name="app_name_profile">Perfil</string>
+    <string name="copyright_leandro_leonardo">Copyright | Leandro Leonardo</string>
+    <string name="olvideClave">"<a href="http://www.fun-buggy.com.">¿Tienes problemas para iniciar sesión?</a>"</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="leandro_leonardo">Leandro Leonardo</string>
+    <string name="diplomado_desarrollo_de_aplicaciones_android">Diplomado Desarrollo de Aplicaciones Android</string>
+</resources>

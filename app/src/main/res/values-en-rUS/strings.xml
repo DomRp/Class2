@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_generic">Class 2, Leandro Leonardo</string>
+    <string name="app_name_login">Login</string>
+    <string name="app_name_profile">Profile</string>
+    <string name="copyright_leandro_leonardo">Copyright | Leandro Leonardo</string>
+    <string name="olvideClave">Have any problems?</string>
+    <string name="correo_electr_nico">E-mail</string>
+    <string name="contrase_a">Password</string>
+    <string name="iniciar_sesi_n">Login</string>
+    <string name="leandro_leonardo">Leandro Leonardo</string>
+    <string name="diplomado_desarrollo_de_aplicaciones_android">Android Class</string>
+</resources>

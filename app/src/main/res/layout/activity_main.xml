@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@android:style/Widget.Material.Light.ScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorYellow"
+    android:fitsSystemWindows="true"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:paddingTop="56dp">
+
+        <ImageView
+            android:id="@+id/ivLogo"
+            android:layout_width="wrap_content"
+            android:layout_height="238dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="24dp"
+            android:src="@drawable/a"
+            android:contentDescription="TODO"
+            tools:ignore="ContentDescription,HardcodedText" />
+
+        <EditText
+            android:id="@+id/etCorreo"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="25dp"
+            android:backgroundTint="@color/colorWhite"
+            android:hint="@string/correo_electr_nico"
+            android:inputType="textEmailAddress"
+            android:textAlignment="viewStart"
+            android:textAllCaps="false"
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/etPass"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="25dp"
+            android:backgroundTint="@color/colorWhite"
+            android:hint="@string/contrase_a"
+            android:inputType="numberPassword"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnEnter"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorYellow"
+            android:backgroundTint="@android:color/holo_blue_light"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:shadowColor="@color/colorAzulGris"
+            android:text="@string/iniciar_sesi_n"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textColorHighlight="@color/colorAccent"
+            android:textColorHint="@color/colorAzulBuggy"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:typeface="normal" />
+
+        <TextView
+            android:id="@+id/tvOlvidarClaveAcceso"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="25sp"
+            android:autoLink="web"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:text="@string/olvideClave"
+            android:textAllCaps="false"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+</ScrollView>
