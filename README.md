@@ -12,14 +12,17 @@ This project will be used as a guide for the lesson of "Activities and Intents" 
 + Allow to share this dummy data by an implicit intent.
 
 # Screen Examples:
-+
-+## Login Activity
-+<img src="https://raw.githubusercontent.com/wilsonrc/Activities/master/ScreentShots/LoginScreenShot.PNG" align="center" height="500px" width="282px"/>
-+
-+## Profile Activity
-+<img src="https://raw.githubusercontent.com/DomRp/Class2/master/ScreentShots/1.png" align="center" height="500px" width="282px"/>
-+
-+
-+### Resources:
-++ https://developer.android.com/guide/components/class2
-++ https://developer.android.com/guide/components/intents-filters
+
+# Splash
+<img src="https://raw.githubusercontent.com/DomRp/Class2/master/ScreentShots/1.PNG" align="center" height="500px" width="282px"/>
+
+# Login Activity
+<img src="https://raw.githubusercontent.com/DomRp/Class2/master/ScreentShots/2.PNG" align="center" height="500px" width="282px"/>
+
+## Profile Activity
+<img src="https://raw.githubusercontent.com/DomRp/Class2/master/ScreentShots/3.png" align="center" height="500px" width="282px"/>
+
+
+### Resources:
++ https://developer.android.com/guide/components/activities
++ https://developer.android.com/guide/components/intents-filters
