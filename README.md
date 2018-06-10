@@ -20,7 +20,7 @@ This project will be used as a guide for the lesson of "Activities and Intents" 
 <img src="https://raw.githubusercontent.com/DomRp/Class2/master/ScreentShots/2.PNG" align="center" height="500px" width="282px"/>
 
 ## Profile Activity
-<img src="ScreentShots/3.png" align="center" height="500px" width="282px"/>
+<img src="ScreentShots/3.PNG" align="center" height="500px" width="282px"/>
 
 
 ### Resources:
