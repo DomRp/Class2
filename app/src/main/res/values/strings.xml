@@ -9,4 +9,7 @@
     <string name="iniciar_sesi_n">Iniciar sesión</string>
     <string name="leandro_leonardo">Leandro Leonardo</string>
     <string name="diplomado_desarrollo_de_aplicaciones_android">Diplomado Desarrollo de Aplicaciones Android</string>
+
+    <string name="dialog_body_message">Wrong password or Username</string>
+    <string name="dialog_title_message">Authentication failed</string>
 </resources>
